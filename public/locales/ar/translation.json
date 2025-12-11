@@ -1,0 +1,16 @@
+{
+  "city": "بني سويف",
+  "minTemp": "الصغري",
+  "maxTemp": "الكبري",
+  "language": "انجليزي",
+  "languagecode": "ar",
+  "clear sky": "سماء صافية",
+  "few clouds": "غيوم قليلة",
+  "scattered clouds": "غيوم متناثرة",
+  "broken clouds": "غيوم متقطعة",
+  "shower rain": "أمطار متفرقة",
+  "rain": "مطر",
+  "thunderstorm": "عاصفة رعدية",
+  "snow": "ثلج",
+  "mist": "ضباب"
+}
